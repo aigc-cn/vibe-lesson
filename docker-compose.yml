@@ -1,0 +1,9 @@
+services:
+  ogms:
+    build:
+      context: .
+      args:
+        GEMINI_API_KEY: ${GEMINI_API_KEY:-PLACEHOLDER_API_KEY}
+    image: limaxs-demos/ogms:local
+    ports:
+      - "8080:80"

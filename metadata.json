@@ -1,0 +1,8 @@
+{
+  "name": "出国监督管理系统 (OGMS)",
+  "description": "一套全面覆盖出访评估、预申报、归国报告、成果撮合、合规管理及数据驾驶舱的出国监督管理综合平台。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

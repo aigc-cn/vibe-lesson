@@ -9,3 +9,6 @@
 ## 3. 开发指南
 - [前端架构说明](./frontend_architecture.md)
 - [AI 智能体集成方案](./ai_agent_integration.md)
+
+## 4. OpenSpec
+- [OpenSpec 文档](./openspec.md)
